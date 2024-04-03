@@ -2,9 +2,14 @@
   "files.associations": {
     "*.txt": "cmake",
     "*.h": "c",
-    "*.cpp": "cpp",
+    "*.c": "c",
+    "*.hh": "cpp",
+    "*.hpp": "cpp",
     "*.cc": "cpp",
+    "*.cpp": "cpp",
     ".clang-format": "shellscript",
+    "*.ninja": "makefile",
+    "*.jam": "makefile",
     "cmath": "cpp",
     "kplc_driver.h": "c",
     "plc_ethernet.h": "c",
@@ -112,6 +117,9 @@
     "*.ipp": "cpp",
     "queue": "cpp",
     "charconv": "cpp",
-    "format": "cpp"
+    "format": "cpp",
+    "stack": "cpp",
+    "cerrno": "cpp",
+    "version": "cpp"
   },
 }

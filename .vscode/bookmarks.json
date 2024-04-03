@@ -1,0 +1,229 @@
+{
+	"files": [
+		{
+			"path": "BookExercises/TowardsModernC++/Chapter-02_LanguageUsabilityEnhancements/chpt_2.cc",
+			"bookmarks": [
+				{
+					"line": 17,
+					"column": 30,
+					"label": ""
+				},
+				{
+					"line": 47,
+					"column": 21,
+					"label": ""
+				},
+				{
+					"line": 92,
+					"column": 46,
+					"label": ""
+				},
+				{
+					"line": 160,
+					"column": 46,
+					"label": ""
+				},
+				{
+					"line": 176,
+					"column": 32,
+					"label": ""
+				},
+				{
+					"line": 309,
+					"column": 26,
+					"label": ""
+				},
+				{
+					"line": 356,
+					"column": 23,
+					"label": ""
+				},
+				{
+					"line": 509,
+					"column": 53,
+					"label": ""
+				},
+				{
+					"line": 534,
+					"column": 35,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "BookExercises/TowardsModernC++/Chapter-03_LanguageRuntimeEnhancements/chpt_3.cc",
+			"bookmarks": [
+				{
+					"line": 13,
+					"column": 33,
+					"label": ""
+				},
+				{
+					"line": 83,
+					"column": 41,
+					"label": ""
+				},
+				{
+					"line": 132,
+					"column": 58,
+					"label": ""
+				},
+				{
+					"line": 286,
+					"column": 74,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "BookExercises/TowardsModernC++/Chapter-04_Containers/chpt_4.cc",
+			"bookmarks": [
+				{
+					"line": 30,
+					"column": 32,
+					"label": ""
+				},
+				{
+					"line": 152,
+					"column": 38,
+					"label": ""
+				},
+				{
+					"line": 216,
+					"column": 24,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "BookExercises/TowardsModernC++/Chapter-05_SmartPointersAndMemoryManagement/chpt_5.cc",
+			"bookmarks": [
+				{
+					"line": 13,
+					"column": 33,
+					"label": ""
+				},
+				{
+					"line": 56,
+					"column": 33,
+					"label": ""
+				},
+				{
+					"line": 122,
+					"column": 6,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "BookExercises/TowardsModernC++/Chapter-06_RegularExpression/chpt_6.cc",
+			"bookmarks": [
+				{
+					"line": 14,
+					"column": 42,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "BookExercises/TowardsModernC++/Chapter-07_ParallelismAndConcurrency/chpt_7.cc",
+			"bookmarks": [
+				{
+					"line": 8,
+					"column": 38,
+					"label": ""
+				},
+				{
+					"line": 61,
+					"column": 24,
+					"label": ""
+				},
+				{
+					"line": 78,
+					"column": 36,
+					"label": ""
+				},
+				{
+					"line": 170,
+					"column": 52,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "BookExercises/TowardsModernC++/Chapter-09-10_ MinorFeaturesAndOutLook/chpt_9.cc",
+			"bookmarks": [
+				{
+					"line": 14,
+					"column": 42,
+					"label": ""
+				},
+				{
+					"line": 53,
+					"column": 22,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "BookExercises/C++Primer-5th/Chapter-02_VariablesAndBasicTypes/chapt_02.cc",
+			"bookmarks": [
+				{
+					"line": 15,
+					"column": 48,
+					"label": ""
+				},
+				{
+					"line": 109,
+					"column": 27,
+					"label": ""
+				},
+				{
+					"line": 158,
+					"column": 35,
+					"label": ""
+				},
+				{
+					"line": 238,
+					"column": 34,
+					"label": ""
+				},
+				{
+					"line": 398,
+					"column": 39,
+					"label": ""
+				},
+				{
+					"line": 472,
+					"column": 53,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "BookExercises/C++Primer-5th/Chapter-03_StringsVectorsAndArrays/chapt_03.cc",
+			"bookmarks": [
+				{
+					"line": 19,
+					"column": 47,
+					"label": ""
+				},
+				{
+					"line": 130,
+					"column": 7,
+					"label": ""
+				},
+				{
+					"line": 207,
+					"column": 14,
+					"label": ""
+				},
+				{
+					"line": 242,
+					"column": 7,
+					"label": ""
+				}
+			]
+		}
+	]
+}
